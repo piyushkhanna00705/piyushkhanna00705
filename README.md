@@ -1,6 +1,6 @@
 ## Hey! I'm Piyush Khanna. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![GitHub piyushkhanna00705](https://img.shields.io/github/followers/vermakhushboo?label=follow&style=social)](https://github.com/piyushkhanna00705)
+[![GitHub piyushkhanna00705](https://img.shields.io/github/followers/piyushkhanna00705?label=follow&style=social)](https://github.com/piyushkhanna00705)
 [![Linkedin: Piyush Khanna](https://img.shields.io/badge/-Piyush%20Khanna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyush-khanna-177045158/)](https://www.linkedin.com/in/piyush-khanna-177045158/)
 [![Twitter: Piyush Khanna](https://img.shields.io/twitter/follow/piyush_khanna7_?style=social)](https://twitter.com/piyush_khanna7)
 <!-- [![Medium Badge](https://img.shields.io/badge/-@Khushboo%20Verma-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@khushboo-verma)](https://medium.com/@khushboo-verma)
