@@ -6,7 +6,7 @@
 <!-- [![Medium Badge](https://img.shields.io/badge/-@Khushboo%20Verma-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@khushboo-verma)](https://medium.com/@khushboo-verma)
 [![Polywork Badge](https://img.shields.io/badge/-khushbooverma-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/khushbooverma)](http://polywork.com/khushbooverma) -->
   
-I develop software, create content and love meeting new people!
+I develop software, and love meeting new people!
 
 
 [![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushkhanna00705&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/piyushkhanna00705/github-readme-stats)
