@@ -9,7 +9,7 @@
 I develop software, and love meeting new people!
 
 
-[![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushkhanna00705&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/piyushkhanna00705/github-readme-stats)
+<!--[![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushkhanna00705&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/piyushkhanna00705/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkhanna00705&layout=compact&theme=calm)](https://github.com/piyushkhanna00705/github-readme-stats)
 
 
